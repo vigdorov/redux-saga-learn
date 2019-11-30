@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import {Provider} from 'react-redux';
 
-import RootApp from './core/root-app';
+import RootApp from './pages/root-app';
 import * as serviceWorker from './serviceWorker';
 import {store} from './store/config';
 
